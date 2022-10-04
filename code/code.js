@@ -1,1 +1,3 @@
-// kirhbgrhg
+function name(params) {
+    
+}
